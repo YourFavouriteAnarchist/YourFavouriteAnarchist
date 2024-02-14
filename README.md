@@ -1,4 +1,4 @@
-I've turned myself into a programmer Morty! An anarchist programmer Morty!
+I've turned myself into a programmer Morty! An anarchist programmer!
 
 <!---
 YourFavouriteAnarchist/YourFavouriteAnarchist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
